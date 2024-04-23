@@ -16,7 +16,7 @@ If this script helped or interested you, please consider staring the repo above.
 - When there are multiple answers, fill in the boxes left-to-right and then down. You can also press tab to get to the next field. Example below
   - answer: `[1, 2, 3, 4]`  question: <img src="readme/multiple_free_response.png" width="250">
 - Change your console log level to only **info** for a much better experience
-<img src="readme/https://ibb.co/ysxWmPg">
+<img src="https://github.com/pearl2poor/Khan-Academy-Answers/blob/main/Screenshot%202024-04-23%20134413.png">
 
 ## Gotchas
 - This works only for expression, free response, multiple choice, and dropdown questions.
